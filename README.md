@@ -15,6 +15,8 @@ By taking a positive number n and three initial numbers a, b, n, c, print the fi
 
 The inputs and outputs are as below:
 
+<img src="1.png" width="350" height="150">
+
 
 
 
